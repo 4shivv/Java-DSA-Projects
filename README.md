@@ -1,6 +1,6 @@
 # COP3503 Projects 🚀
 
-This repository contains projects for **COP3503** (Computer Science 2) at the **University of Central Florida**. It includes implementations of fundamental **data structures**, **algorithms**, and **object-oriented programming (OOP) concepts** in **Java**.
+This repository contains java projects for **COP3503** (Computer Science 2) at the **University of Central Florida**. It includes implementations of fundamental **data structures**, **algorithms**, and **object-oriented programming (OOP) concepts** in **Java**.
 
 ## 📂 Projects Overview
 
