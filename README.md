@@ -18,6 +18,18 @@ This repository includes the following Java projects:
   - Generates valid parentheses combinations using recursive backtracking.  
   - Useful for parsing problems and expression validation.
 
+- **LinkedList.java** (Data Structures)  
+  - Implements a linked list with methods for adding nodes, processing the list, and loading/saving data from/to files.  
+  - Useful for understanding linked list operations and file I/O in Java.
+
+- **Node.java** (Data Structures)  
+  - Represents a node in the linked list, containing an integer item and a reference to the next node.  
+  - Essential for the linked list implementation.
+
+- **LinkedListTester.java** (Testing)  
+  - Contains the main method to test the functionality of the `LinkedList` class.  
+  - Demonstrates loading data from a file, processing the linked list, and saving the results.
+
 ## 🚀 Getting Started
 
 1. **Clone the Repository**  
